@@ -38,6 +38,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Arjun Ganesan](https://arjun-g.com)
 * [Aromal Anil](https://aromalanil.me)
 * [Ashlee Boyer](http://ashleemboyer.dev)
+* [Ayman Chafai](http://www.chafaiayman.com)
 * [Atanas Atanasov](https://atanas.info)
 * [Azhar Zafar](http://azharr.com)
 
